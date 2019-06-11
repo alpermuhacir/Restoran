@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace EserRestorant
@@ -28,7 +24,7 @@ namespace EserRestorant
         public string Musterisoyad { get => _musterisoyad; set => _musterisoyad = value; }
         public string Telefon { get => _telefon; set => _telefon = value; }
         public string Adres { get => _adres; set => _adres = value; }
-        public string Email { get => _email; set => _email = value; } 
+        public string Email { get => _email; set => _email = value; }
         #endregion
 
 
@@ -63,7 +59,7 @@ namespace EserRestorant
             {
                 con.Close();
             }
-            
+
             return sonuc;
         }
 
@@ -212,9 +208,9 @@ namespace EserRestorant
             {
                 string hata = ex.Message;
             }
-                dr.Close();
-                con.Dispose();
-                con.Close();
+            dr.Close();
+            con.Dispose();
+            con.Close();
         }
 
         public void MusteriGetirAd(ListView lv, string musteriAd)

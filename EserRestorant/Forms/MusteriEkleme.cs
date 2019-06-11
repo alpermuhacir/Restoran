@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace EserRestorant
@@ -110,7 +103,7 @@ namespace EserRestorant
                 else
                 {
                     clsMusteriler c = new clsMusteriler();
-                    
+
                     c.Musteriad = txtMusteriAd.Text;
                     c.Musterisoyad = txtMusteriSoyad.Text;
                     c.Telefon = txtTelefon.Text;
@@ -122,7 +115,7 @@ namespace EserRestorant
 
                     if (sonuc)//!
                     {
-                        
+
                         if (txtMusteriNo.Text != "")
                         {
                             MessageBox.Show("Müşteri Bilgileri Güncellendi!");

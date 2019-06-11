@@ -1,24 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace EserRestorant
 {
     public partial class frmGiris : Form
     {
-        
+
 
         public frmGiris()
         {
             InitializeComponent();
         }
-        
+
         //
         private void frmGiris_Load(object sender, EventArgs e)
         {
@@ -61,10 +54,10 @@ namespace EserRestorant
 
         private void btnIptal_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("Çıkmak istediğinize emin misiniz?","Uyarı!",MessageBoxButtons.YesNo,MessageBoxIcon.Warning)==DialogResult.Yes)
+            if (MessageBox.Show("Çıkmak istediğinize emin misiniz?", "Uyarı!", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
             {
                 Application.Exit();
             }
         }
-    } 
+    }
 }

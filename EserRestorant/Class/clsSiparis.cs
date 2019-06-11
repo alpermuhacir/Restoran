@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
-using System.Linq.Expressions;
 using System.Windows.Forms;
 
 namespace EserRestorant
@@ -36,13 +31,13 @@ namespace EserRestorant
             SqlConnection con = new SqlConnection(gnl.conString);
             SqlCommand cmd = new SqlCommand("select URUNAD,FIYAT,SATISLAR.ID,SATISLAR.URUNID,SATISLAR.ADET " +
                                             "from SATISLAR Inner Join URUNLER on SATISLAR.URUNID=URUNLER.ID" +
-                                            " Where ADISYONID=@AdisyonId",con);
+                                            " Where ADISYONID=@AdisyonId", con);
             SqlDataReader dr = null;
             cmd.Parameters.Add("@AdisyonId", SqlDbType.Int).Value = AdisyonId;
 
             try
             {
-                if(con.State == ConnectionState.Closed)
+                if (con.State == ConnectionState.Closed)
                 {
                     con.Open();
                 }
@@ -59,7 +54,7 @@ namespace EserRestorant
                     sayac++;
                 }
             }
-            catch(SqlException ex)
+            catch (SqlException ex)
             {
                 string hata = ex.Message;
             }
@@ -80,7 +75,7 @@ namespace EserRestorant
 
             try
             {
-                if(con.State == ConnectionState.Closed)
+                if (con.State == ConnectionState.Closed)
                 {
                     con.Open();
                 }
@@ -92,7 +87,7 @@ namespace EserRestorant
 
                 sonuc = Convert.ToBoolean(cmd.ExecuteNonQuery());
             }
-            catch(SqlException ex)
+            catch (SqlException ex)
             {
                 string hata = ex.Message;
             }
@@ -107,11 +102,11 @@ namespace EserRestorant
         public void setDeleteOrder(int satisId)
         {
             SqlConnection con = new SqlConnection(gnl.conString);
-            SqlCommand cmd = new SqlCommand("Delete From SATISLAR Where ID=@SatisID",con);
+            SqlCommand cmd = new SqlCommand("Delete From SATISLAR Where ID=@SatisID", con);
 
             cmd.Parameters.Add("@SatisID", SqlDbType.Int).Value = satisId;
 
-            if(con.State == ConnectionState.Closed)
+            if (con.State == ConnectionState.Closed)
             {
                 con.Open();
             }
@@ -128,20 +123,20 @@ namespace EserRestorant
             SqlConnection con = new SqlConnection(gnl.conString);
             SqlCommand cmd = new SqlCommand("select sum(TOPLAMTUTAR) from HESAPODEMELERI where MUSTERIID=@musteriId", con);
 
-           /* SqlCommand cmd = new SqlCommand("SELECT SUM(dbo.SATISLAR.ADET * FIYAT) AS FIYAT " +
-                                            "FROM dbo.MUSTERILER INNER JOIN dbo.PAKETSIPARIS ON dbo.MUSTERILER.ID = dbo.PAKETSIPARIS.MUSTERIID " +
-                                            "INNER JOIN ADISYON on ADISYON.ID = PAKETSIPARIS.ADISYONID" +
-                                            " INNER JOIN dbo.SATISLAR ON dbo.ADISYON.ID = dbo.SATISLAR.ADISYONID " +
-                                            "INNER JOIN dbo.URUNLER ON dbo.SATISLAR.URUNID = dbo.URUNLER.ID " +
-                                            "WHERE(dbo.PAKETSIPARIS.MUSTERIID = @musteriId) AND (dbo.PAKETSIPARIS.DURUM = 0)", con);*/
-            
-           /* SqlCommand cmd = new SqlCommand("SELECT SUM(dbo.SATISLAR.ADET* dbo.URUNLER.FIYAT) AS FIYAT FROM dbo.ADISYON " +
-                                            "INNER JOIN dbo.MUSTERILER ON dbo.ADISYON.ID = dbo.MUSTERILER.ID " +
-                                            "INNER JOIN dbo.PAKETSIPARIS ON dbo.MUSTERILER.ID = PAKETSIPARIS.MUSTERIID " +
-                                            "INNER JOIN  dbo.SATISLAR ON dbo.ADISYON.ID = dbo.SATISLAR.ADISYONID" +
-                                            " INNER JOIN dbo.URUNLER ON dbo.SATISLAR.URUNID = dbo.URUNLER.ID " +
-                                            "WHERE(dbo.PAKETSIPARIS.MUSTERIID = musteriId) AND(dbo.PAKETSIPARIS.DURUM = 1)", con);*/
-            
+            /* SqlCommand cmd = new SqlCommand("SELECT SUM(dbo.SATISLAR.ADET * FIYAT) AS FIYAT " +
+                                             "FROM dbo.MUSTERILER INNER JOIN dbo.PAKETSIPARIS ON dbo.MUSTERILER.ID = dbo.PAKETSIPARIS.MUSTERIID " +
+                                             "INNER JOIN ADISYON on ADISYON.ID = PAKETSIPARIS.ADISYONID" +
+                                             " INNER JOIN dbo.SATISLAR ON dbo.ADISYON.ID = dbo.SATISLAR.ADISYONID " +
+                                             "INNER JOIN dbo.URUNLER ON dbo.SATISLAR.URUNID = dbo.URUNLER.ID " +
+                                             "WHERE(dbo.PAKETSIPARIS.MUSTERIID = @musteriId) AND (dbo.PAKETSIPARIS.DURUM = 0)", con);*/
+
+            /* SqlCommand cmd = new SqlCommand("SELECT SUM(dbo.SATISLAR.ADET* dbo.URUNLER.FIYAT) AS FIYAT FROM dbo.ADISYON " +
+                                             "INNER JOIN dbo.MUSTERILER ON dbo.ADISYON.ID = dbo.MUSTERILER.ID " +
+                                             "INNER JOIN dbo.PAKETSIPARIS ON dbo.MUSTERILER.ID = PAKETSIPARIS.MUSTERIID " +
+                                             "INNER JOIN  dbo.SATISLAR ON dbo.ADISYON.ID = dbo.SATISLAR.ADISYONID" +
+                                             " INNER JOIN dbo.URUNLER ON dbo.SATISLAR.URUNID = dbo.URUNLER.ID " +
+                                             "WHERE(dbo.PAKETSIPARIS.MUSTERIID = musteriId) AND(dbo.PAKETSIPARIS.DURUM = 1)", con);*/
+
 
             cmd.Parameters.Add("musteriId", SqlDbType.Int).Value = musteriId;
 
@@ -151,7 +146,7 @@ namespace EserRestorant
                 {
                     con.Open();
                 }
-                
+
                 genelToplam = Convert.ToDecimal(cmd.ExecuteScalar());
             }
             catch (SqlException ex)

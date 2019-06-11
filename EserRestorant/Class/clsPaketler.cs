@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
-using System.Runtime.CompilerServices;
 
 namespace EserRestorant
 {
@@ -28,7 +23,7 @@ namespace EserRestorant
         public int ClientID { get => _ClientID; set => _ClientID = value; }
         public string Description { get => _Description; set => _Description = value; }
         public int State { get => _State; set => _State = value; }
-        public int PaytypeId { get => __PaytypeId; set => __PaytypeId = value; } 
+        public int PaytypeId { get => __PaytypeId; set => __PaytypeId = value; }
         #endregion
 
         //paket servisi açma
@@ -177,7 +172,7 @@ namespace EserRestorant
                     con.Open();
                 }
                 cmd.Parameters.Add("@additionID", SqlDbType.Int).Value = additionID;
-                
+
                 result = Convert.ToBoolean(cmd.ExecuteScalar());
 
             }

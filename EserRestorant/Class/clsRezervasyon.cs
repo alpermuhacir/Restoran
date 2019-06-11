@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
@@ -140,7 +136,7 @@ namespace EserRestorant
             SqlCommand comm = new SqlCommand("SELECT REZERVASYONLAR.MUSTERIID,( AD + SOYAD ) AS MUSTERI FROM REZERVASYONLAR " +
                                              "INNER JOIN MUSTERILER ON REZERVASYONLAR.MUSTERIID=MUSTERILER.ID " +
                                              "WHERE REZERVASYONLAR.DURUM=0", conn);
-            
+
             if (conn.State == ConnectionState.Closed)
             {
                 conn.Open();
@@ -211,7 +207,7 @@ namespace EserRestorant
             }
 
             tar = Convert.ToDateTime(comm.ExecuteScalar());
-            
+
             conn.Dispose();
             conn.Close();
 
@@ -237,7 +233,7 @@ namespace EserRestorant
             {
                 throw;
             }
-            
+
             conn.Dispose();
             conn.Close();
 

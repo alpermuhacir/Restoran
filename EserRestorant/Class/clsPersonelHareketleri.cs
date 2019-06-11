@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Data;
+using System.Data.SqlClient;
 
 namespace EserRestorant
 {
@@ -52,7 +48,7 @@ namespace EserRestorant
         {
             get => _Durum;
             set => _Durum = value;
-        } 
+        }
 
         #endregion
 
@@ -64,19 +60,19 @@ namespace EserRestorant
             SqlCommand cmd = new SqlCommand("Insert Into PERSONELHAREKETLERI(PERSONELID,ISLEM,TARIH)Values(@personelID,@islem,@tarih)", con);
             try
             {
-                if(con.State==System.Data.ConnectionState.Closed)
+                if (con.State == System.Data.ConnectionState.Closed)
                 {
                     con.Open();
 
                 }
 
-                cmd.Parameters.Add("@personelID",SqlDbType.Int).Value = ph._PersonelID;
+                cmd.Parameters.Add("@personelID", SqlDbType.Int).Value = ph._PersonelID;
                 cmd.Parameters.Add("@islem", SqlDbType.VarChar).Value = ph._Islem;
                 cmd.Parameters.Add("@tarih", SqlDbType.DateTime).Value = ph._Tarih;
 
                 result = Convert.ToBoolean(cmd.ExecuteNonQuery());
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 string hata = ex.Message;
                 throw;

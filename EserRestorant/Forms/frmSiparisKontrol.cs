@@ -1,12 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Runtime.Remoting.Channels;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace EserRestorant
@@ -27,15 +20,15 @@ namespace EserRestorant
             int sol = 1;
             int bol = Convert.ToInt32(Math.Ceiling(Math.Sqrt(butonSayisi)));
 
-            for (int i= 1;  i <= butonSayisi; i++)
+            for (int i = 1; i <= butonSayisi; i++)
             {
                 Button btn = new Button();
 
                 btn.AutoSize = false;
                 btn.Size = new Size(179, 80);
-                btn.FlatStyle=FlatStyle.Flat;
-                btn.Name = lvMusteriler.Items[i-1].SubItems[0].Text;//[i]
-                btn.Text= lvMusteriler.Items[i-1].SubItems[1].Text;//[i]
+                btn.FlatStyle = FlatStyle.Flat;
+                btn.Name = lvMusteriler.Items[i - 1].SubItems[0].Text;//[i]
+                btn.Text = lvMusteriler.Items[i - 1].SubItems[1].Text;//[i]
                 btn.Font = new Font(btn.Font.FontFamily.Name, 18);
                 btn.Location = new Point(sol, alt);
                 this.Controls.Add(btn);
@@ -51,8 +44,8 @@ namespace EserRestorant
                 btn.MouseEnter += new EventHandler(dinamikMetod2);
             }
         }
-        
-        protected void dinamikMetod(object sender, EventArgs e) 
+
+        protected void dinamikMetod(object sender, EventArgs e)
         {
             clsAdisyon c = new clsAdisyon();
             Button dinamikButon = (sender as Button);
@@ -95,7 +88,7 @@ namespace EserRestorant
 
             for (int i = 0; i < kayitSayisi; i++)
             {
-                toplam += Convert.ToDecimal(lvSatisDetaylari.Items[i].SubItems[2].Text) * 
+                toplam += Convert.ToDecimal(lvSatisDetaylari.Items[i].SubItems[2].Text) *
                     Convert.ToDecimal(lvSatisDetaylari.Items[i].SubItems[3].Text);
 
                 /*toplam += Convert.ToDecimal(lvSatisDetaylari.Items[i].SubItems[3].Text) *
@@ -111,7 +104,7 @@ namespace EserRestorant
             {
                 clsSiparis c = new clsSiparis();
                 c.adisyonpaketsiparisDetaylari(lvSatisDetaylari, Convert.ToInt32(lvMusteriDetaylari.SelectedItems[0].SubItems[4].Text));
-               // c.adisyonpaketsiparisDetaylari(lvMusteriDetaylari, Convert.ToInt32(lvMusteriDetaylari.SelectedItems[0].SubItems[4].Text));
+                // c.adisyonpaketsiparisDetaylari(lvMusteriDetaylari, Convert.ToInt32(lvMusteriDetaylari.SelectedItems[0].SubItems[4].Text));
                 toplam();
                 lblGenelToplam.Text =
                     c.GenelToplamBul(Convert.ToInt32(lvMusteriDetaylari.SelectedItems[0].SubItems[0].Text)).ToString() +

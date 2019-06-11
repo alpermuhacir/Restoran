@@ -1,12 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
 using System.Data.SqlClient;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace EserRestorant
@@ -23,7 +17,7 @@ namespace EserRestorant
         private void Masa_Load(object sender, EventArgs e)
         {
             SqlConnection con = new SqlConnection(gnl.conString);
-            SqlCommand cmd = new SqlCommand("Select DURUM,ID from MASALAR",con);
+            SqlCommand cmd = new SqlCommand("Select DURUM,ID from MASALAR", con);
             SqlDataReader dr = null;
 
             if (con.State == ConnectionState.Closed)
@@ -36,15 +30,15 @@ namespace EserRestorant
             {
                 if (true)
                 {
-                    foreach(Control item in this.Controls)
+                    foreach (Control item in this.Controls)
                     {
-                        if(item is Button)
+                        if (item is Button)
                         {
-                            if(item.Name=="btnMasa"+dr["ID"].ToString() && dr["DURUM"].ToString()=="1")
+                            if (item.Name == "btnMasa" + dr["ID"].ToString() && dr["DURUM"].ToString() == "1")
                             {
                                 item.BackgroundImage = (System.Drawing.Image)(Properties.Resources.bos);
                             }
-                            else if(item.Name == "btnMasa" + dr["ID"].ToString() && dr["DURUM"].ToString() == "2")
+                            else if (item.Name == "btnMasa" + dr["ID"].ToString() && dr["DURUM"].ToString() == "2")
                             {
                                 clsMasalar ms = new clsMasalar();
                                 DateTime dt1 = Convert.ToDateTime(ms.SessionSum(2, dr["ID"].ToString()));
@@ -57,14 +51,14 @@ namespace EserRestorant
 
                                 var fark = t2 - t1;
 
-                               item.Text = string.Format("{0}{1}{2}",
-                                    fark.Days > 0 ? string.Format("{0} Gün",fark.Days) : "",
-                                    fark.Hours > 0 ? string.Format("{0} Saat", fark.Hours) : "",
-                                    fark.Minutes > 0 ? string.Format("{0} Dakika", fark.Minutes) : "").Trim() + "\n\n\nMasa" + dr["ID"].ToString();
+                                item.Text = string.Format("{0}{1}{2}",
+                                     fark.Days > 0 ? string.Format("{0} Gün", fark.Days) : "",
+                                     fark.Hours > 0 ? string.Format("{0} Saat", fark.Hours) : "",
+                                     fark.Minutes > 0 ? string.Format("{0} Dakika", fark.Minutes) : "").Trim() + "\n\n\nMasa" + dr["ID"].ToString();
 
                                 item.BackgroundImage = (System.Drawing.Image)(Properties.Resources.dolu);
                             }
-                            else if(item.Name == "btnMasa" + dr["ID"].ToString() && dr["DURUM"].ToString() == "3")
+                            else if (item.Name == "btnMasa" + dr["ID"].ToString() && dr["DURUM"].ToString() == "3")
                             {
                                 item.BackgroundImage = (System.Drawing.Image)(Properties.Resources.acik);
                             }
@@ -76,7 +70,7 @@ namespace EserRestorant
                     }
                 }
             }
-        } 
+        }
 
         private void btnCikis_Click(object sender, EventArgs e)
         {
@@ -203,7 +197,7 @@ namespace EserRestorant
             clsGenel._ButtonName = btnMasa10.Name;
             this.Close();
             siparis.Show();
-        } 
+        }
         #endregion
     }
 }

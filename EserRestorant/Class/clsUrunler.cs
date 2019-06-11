@@ -1,11 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 using System.Data.SqlClient;
+using System.Windows.Forms;
 
 namespace EserRestorant.Class
 {
@@ -26,7 +22,7 @@ namespace EserRestorant.Class
         public int Urunturno { get => _urunturno; set => _urunturno = value; }
         public string Urunad { get => _urunad; set => _urunad = value; }
         public decimal Fiyat { get => _fiyat; set => _fiyat = value; }
-        public string Aciklama { get => _aciklama; set => _aciklama = value; } 
+        public string Aciklama { get => _aciklama; set => _aciklama = value; }
         #endregion
 
         //ürün adına göre listeleme...
@@ -38,7 +34,7 @@ namespace EserRestorant.Class
             SqlCommand cmd = new SqlCommand("SELECT * FROM URUNLER WHERE DURUM = 0 and URUNAD like '&'+ urunAdi +'&'", con);
             SqlDataReader dr = null;
             cmd.Parameters.Add("@urunAdi", SqlDbType.VarChar).Value = urunadi;
-            
+
             try
             {
                 if (con.State == ConnectionState.Closed)
@@ -330,7 +326,7 @@ namespace EserRestorant.Class
         } //kontrol edildi...
 
         //belli kategoriye ait ürünleri listeliyor
-        public void urunleriListeleIstatistiklereGoreUrunId(ListView lv, DateTimePicker Baslangic, DateTimePicker Bitis,int urunkatId)
+        public void urunleriListeleIstatistiklereGoreUrunId(ListView lv, DateTimePicker Baslangic, DateTimePicker Bitis, int urunkatId)
         {
             lv.Items.Clear();
 

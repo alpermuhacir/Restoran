@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace EserRestorant
+﻿namespace EserRestorant
 {
     //Use this class to make it easy to read the data
     class clsGenel

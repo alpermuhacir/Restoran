@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace EserRestorant
@@ -139,7 +132,7 @@ namespace EserRestorant
 
         private void cbGorevi_SelectedIndexChanged(object sender, EventArgs e)
         {
-            clsPersonelGorev c = (clsPersonelGorev) cbGorevi.SelectedItem;
+            clsPersonelGorev c = (clsPersonelGorev)cbGorevi.SelectedItem;
             txtGorevId2.Text = Convert.ToString(c.PersonelGorevId);
         }
 
@@ -155,8 +148,8 @@ namespace EserRestorant
 
         private void cbPersonel_SelectedIndexChanged(object sender, EventArgs e)
         {
-            clsPersoneller c = (clsPersoneller) cbPersonel.SelectedItem;
-            txtPersonelID.Text=Convert.ToString(c.PersonelID);
+            clsPersoneller c = (clsPersoneller)cbPersonel.SelectedItem;
+            txtPersonelID.Text = Convert.ToString(c.PersonelID);
         }
 
         private void btnSil_Click(object sender, EventArgs e)
@@ -195,7 +188,7 @@ namespace EserRestorant
                     c.PersonelAd = txtAd.Text.Trim();
                     c.PersonelSoyad = txtSoyad.Text.Trim();
                     c.PersonelParola = txtSifre.Text.Trim();
-                    c.PersonelGorevID=Convert.ToInt32(txtGorevId2.Text);
+                    c.PersonelGorevID = Convert.ToInt32(txtGorevId2.Text);
                     bool sonuc = c.personelEkle(c);
 
                     if (sonuc)

@@ -1,14 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
+﻿using EserRestorant.Class;
+using System;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
-using EserRestorant.Class;
 
 namespace EserRestorant
 {
@@ -44,7 +38,7 @@ namespace EserRestorant
             Istatistik("İçecekler Grafiği", 2, Color.Orange);
         }
 
-        private void Istatistik(string gfName,int KatId, Color renk)
+        private void Istatistik(string gfName, int KatId, Color renk)
         {
             chRapor.Palette = ChartColorPalette.None;
             chRapor.Series[0].EmptyPointStyle.Color = Color.Transparent;

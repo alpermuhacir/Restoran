@@ -1,12 +1,5 @@
 ﻿using System;
 using System.Collections;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace EserRestorant
@@ -32,7 +25,7 @@ namespace EserRestorant
             this.Close();
             menu.Show();
         }
-        
+
         //Hesap İşlemleri
         void islem(Object sender, EventArgs e)
         {
@@ -78,7 +71,7 @@ namespace EserRestorant
                     break;
             }
         }
-        
+
         int tableId; int AdditionId;
         private void frmPaketSiparis_Load(object sender, EventArgs e)
         {
@@ -86,13 +79,13 @@ namespace EserRestorant
 
             clsMasalar ms = new clsMasalar();
             tableId = ms.TableGetByNumber(clsGenel._ButtonName);
-            if(ms.TableGetByState(tableId,2)==true || ms.TableGetByState(tableId, 4) == true)
+            if (ms.TableGetByState(tableId, 2) == true || ms.TableGetByState(tableId, 4) == true)
             {
                 clsAdisyon Ad = new clsAdisyon();
                 AdditionId = Ad.getByAddition(tableId);
 
                 clsSiparis orders = new clsSiparis();
-                orders.getByOrder(lvSiparisler,AdditionId);
+                orders.getByOrder(lvSiparisler, AdditionId);
             }
 
 
@@ -149,18 +142,18 @@ namespace EserRestorant
         private void btnAraSicak8_Click(object sender, EventArgs e)
         {
             Uc.getByProductTypes(lvMenu, btnAraSicak8);
-        } 
+        }
         #endregion
 
         int sayac = 0; int sayac2 = 0;
         private void lvMenu_DoubleClick(object sender, EventArgs e)
         {
-            if(txtAdet.Text == "")
+            if (txtAdet.Text == "")
             {
                 txtAdet.Text = "1";
             }
 
-            if(lvMenu.Items.Count > 0)
+            if (lvMenu.Items.Count > 0)
             {
                 sayac = lvSiparisler.Items.Count;
                 //sayac = lvMenu.Items.Count;
@@ -170,7 +163,7 @@ namespace EserRestorant
                 lvSiparisler.Items[sayac].SubItems.Add(lvMenu.SelectedItems[0].SubItems[2].Text);
 
                 lvSiparisler.Items[sayac].SubItems.Add((Convert.ToDecimal
-                    (lvMenu.SelectedItems[0].SubItems[1].Text) * 
+                    (lvMenu.SelectedItems[0].SubItems[1].Text) *
                     Convert.ToDecimal(txtAdet.Text)).ToString());
 
                 lvSiparisler.Items[sayac].SubItems.Add("0");
@@ -188,7 +181,7 @@ namespace EserRestorant
                 txtAdet.Text = "";
             }
         }
-        
+
         ArrayList silinenler = new ArrayList();
         private void btnSiparis_Click(object sender, EventArgs e)
         {
@@ -205,8 +198,8 @@ namespace EserRestorant
             clsSiparis saveOrder = new clsSiparis();
 
             bool sonuc = false;
-            
-            if(masa.TableGetByState(tableId,1)==true)
+
+            if (masa.TableGetByState(tableId, 1) == true)
             {
                 newAddition.ServisTurNo = 1;
                 //clsGenel._ServisTurNo = 1;//btnOdeme_Click de kullandık
@@ -217,9 +210,9 @@ namespace EserRestorant
                 sonuc = newAddition.setByAdditionNew(newAddition);
                 masa.setChangeTableState(clsGenel._ButtonName, 2);
 
-                if(lvSiparisler.Items.Count > 0)
+                if (lvSiparisler.Items.Count > 0)
                 {
-                    for(int i = 0; i < lvSiparisler.Items.Count; i++)
+                    for (int i = 0; i < lvSiparisler.Items.Count; i++)
                     {
                         saveOrder.MasaId = tableId;
                         saveOrder.UrunId = Convert.ToInt32(lvSiparisler.Items[i].SubItems[2].Text);
@@ -231,12 +224,12 @@ namespace EserRestorant
                     this.Close();
                     ms.Show();
                 }
-                else if(masa.TableGetByState(tableId, 2) == true || masa.TableGetByState(tableId, 4) == true)
+                else if (masa.TableGetByState(tableId, 2) == true || masa.TableGetByState(tableId, 4) == true)
                 {
                     //clsGenel._ServisTurNo = 1;//btnOdeme_Click de kullandık
                     if (lvYeniEklenenler.Items.Count > 0)
                     {
-                        for(int i = 0; i < lvYeniEklenenler.Items.Count; i++)
+                        for (int i = 0; i < lvYeniEklenenler.Items.Count; i++)
                         {
                             saveOrder.MasaId = tableId;
                             saveOrder.UrunId = Convert.ToInt32(lvYeniEklenenler.Items[i].SubItems[1].Text);
@@ -247,9 +240,9 @@ namespace EserRestorant
                         //clsGenel._AdisyonId = Convert.ToString(newAddition.getByAddition(tableId));
                     }
 
-                    if(silinenler.Count > 0)
+                    if (silinenler.Count > 0)
                     {
-                        foreach(string item in silinenler)
+                        foreach (string item in silinenler)
                         {
                             saveOrder.setDeleteOrder(Convert.ToInt32(item));
                         }
@@ -257,7 +250,7 @@ namespace EserRestorant
                     this.Close();
                     ms.Show();
                 }
-                else if(masa.TableGetByState(tableId, 3) == true)
+                else if (masa.TableGetByState(tableId, 3) == true)
                 {
                     //clsGenel._ServisTurNo = 1;//btnOdeme_Click de kullandık
                     newAddition.ServisTurNo = 1;
@@ -267,7 +260,7 @@ namespace EserRestorant
 
                     sonuc = newAddition.setByAdditionNew(newAddition);
                     masa.setChangeTableState(clsGenel._ButtonName, 4);
-                
+
                     if (lvSiparisler.Items.Count > 0)
                     {
                         for (int i = 0; i < lvSiparisler.Items.Count; i++)
@@ -288,7 +281,7 @@ namespace EserRestorant
 
         private void lvSiparisler_MouseDoubleClick(object sender, MouseEventArgs e)
         {
-            if(lvSiparisler.Items.Count > 0)
+            if (lvSiparisler.Items.Count > 0)
             {
                 if (lvSiparisler.SelectedItems[0].SubItems[4].Text != "0")
                 {
@@ -298,9 +291,9 @@ namespace EserRestorant
             }
             else
             {
-                for(int i = 0; i < lvYeniEklenenler.Items.Count; i++)
+                for (int i = 0; i < lvYeniEklenenler.Items.Count; i++)
                 {
-                    if(lvYeniEklenenler.Items[i].SubItems[4].Text == lvSiparisler.SelectedItems[0].SubItems[5].Text)
+                    if (lvYeniEklenenler.Items[i].SubItems[4].Text == lvSiparisler.SelectedItems[0].SubItems[5].Text)
                     {
                         lvYeniEklenenler.Items.RemoveAt(i);
                     }
@@ -312,7 +305,7 @@ namespace EserRestorant
 
         private void txtAra_TextChanged(object sender, EventArgs e)
         {
-            if(txtAra.Text == "")
+            if (txtAra.Text == "")
             {
                 txtAra.Text = "";
             }

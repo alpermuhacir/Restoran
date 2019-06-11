@@ -1,12 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
-using EserRestorant.Class;
 
 namespace EserRestorant
 {
@@ -23,26 +18,26 @@ namespace EserRestorant
         #region properties
         public int UrunTurNo { get => _UrunTurNo; set => _UrunTurNo = value; }
         public string KategoriAd { get => _KategoriAd; set => _KategoriAd = value; }
-        public string Aciklama { get => _Aciklama; set => _Aciklama = value; } 
+        public string Aciklama { get => _Aciklama; set => _Aciklama = value; }
         #endregion
 
         public void getByProductTypes(ListView Cesitler, Button btn)
         {
             Cesitler.Items.Clear();
             SqlConnection conn = new SqlConnection(gnl.conString);
-            SqlCommand comm = new SqlCommand("SELECT URUNAD,FIYAT,URUNLER.ID FROM KATEGORILER INNER JOIN URUNLER ON KATEGORILER.ID=URUNLER.KATEGORIID WHERE URUNLER.KATEGORIID=@KATEGORIID",conn);
+            SqlCommand comm = new SqlCommand("SELECT URUNAD,FIYAT,URUNLER.ID FROM KATEGORILER INNER JOIN URUNLER ON KATEGORILER.ID=URUNLER.KATEGORIID WHERE URUNLER.KATEGORIID=@KATEGORIID", conn);
 
             string aa = btn.Name;
             int uzunluk = aa.Length;
 
             comm.Parameters.Add("@KATEGORIID", SqlDbType.Int).Value = aa.Substring(uzunluk - 1, 1);
-            if(conn.State == ConnectionState.Closed)
+            if (conn.State == ConnectionState.Closed)
             {
                 conn.Open();
             }
             SqlDataReader dr = comm.ExecuteReader();
             int i = 0;
-            while(dr.Read())
+            while (dr.Read())
             {
                 Cesitler.Items.Add(dr["URUNAD"].ToString());
                 Cesitler.Items[i].SubItems.Add(dr["FIYAT"].ToString());

@@ -1,13 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using DevExpress.Utils.MVVM;
 
 namespace EserRestorant
 {
@@ -41,7 +33,7 @@ namespace EserRestorant
             this.dataTable1TableAdapter1.Fill(this.dataSet11.DataTable1);
             // TODO: Bu kod satırı 'dataSet11.DataTable1' tablosuna veri yükler. Bunu gerektiği şekilde taşıyabilir, veya kaldırabilirsiniz.
             this.dataTable1TableAdapter1.Fill(this.dataSet11.DataTable1);
-            
+
 
             this.rpvAylik.RefreshReport();
             this.rpvGunluk.RefreshReport();
@@ -80,18 +72,18 @@ namespace EserRestorant
             rpvGunluk.Visible = true;
         }
 
-       /* private void fillByToolStripButton_Click(object sender, EventArgs e)
-        {
-            try
-            {
-                this.dataTable2TableAdapter1.FillBy(this.dataSet11.DataTable2);
-            }
-            catch (System.Exception ex)
-            {
-                System.Windows.Forms.MessageBox.Show(ex.Message);
-            }
+        /* private void fillByToolStripButton_Click(object sender, EventArgs e)
+         {
+             try
+             {
+                 this.dataTable2TableAdapter1.FillBy(this.dataSet11.DataTable2);
+             }
+             catch (System.Exception ex)
+             {
+                 System.Windows.Forms.MessageBox.Show(ex.Message);
+             }
 
-        }*/
+         }*/
 
         /*private void fillBy2ToolStripButton_Click(object sender, EventArgs e)
         {

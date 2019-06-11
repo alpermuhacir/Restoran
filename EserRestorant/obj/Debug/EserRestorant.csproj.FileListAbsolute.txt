@@ -561,8 +561,6 @@ D:\Projects\GitHub\Restorant\EserRestorant\bin\Debug\SqlServerTypes\x86\SqlServe
 D:\Projects\GitHub\Restorant\EserRestorant\bin\Debug\EserRestorant.exe.config
 D:\Projects\GitHub\Restorant\EserRestorant\bin\Debug\EserRestorant.exe
 D:\Projects\GitHub\Restorant\EserRestorant\bin\Debug\EserRestorant.pdb
-D:\Projects\GitHub\Restorant\EserRestorant\bin\Debug\EserRestorant.exe.CodeAnalysisLog.xml
-D:\Projects\GitHub\Restorant\EserRestorant\bin\Debug\EserRestorant.exe.lastcodeanalysissucceeded
 D:\Projects\GitHub\Restorant\EserRestorant\bin\Debug\Microsoft.ReportViewer.Common.dll
 D:\Projects\GitHub\Restorant\EserRestorant\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
 D:\Projects\GitHub\Restorant\EserRestorant\bin\Debug\Microsoft.ReportViewer.Design.dll

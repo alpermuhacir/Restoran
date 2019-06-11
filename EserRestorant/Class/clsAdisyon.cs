@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace EserRestorant
@@ -64,7 +60,7 @@ namespace EserRestorant
         {
             get => _MasaId;
             set => _MasaId = value;
-        } 
+        }
         #endregion
 
 
@@ -74,16 +70,16 @@ namespace EserRestorant
             SqlConnection con = new SqlConnection(gnl.conString);
             SqlCommand cmd = new SqlCommand("Select top 1 ID From ADISYONLAR Where MASAID=@MasaId Order by ID desc", con);
 
-            cmd.Parameters.Add("@MasaId",SqlDbType.Int).Value = MasaId;
+            cmd.Parameters.Add("@MasaId", SqlDbType.Int).Value = MasaId;
             try
             {
-                if(con.State == ConnectionState.Closed)
+                if (con.State == ConnectionState.Closed)
                 {
                     con.Open();
                 }
                 MasaId = Convert.ToInt32(cmd.ExecuteScalar());
             }
-            catch(SqlException ex)
+            catch (SqlException ex)
             {
                 string hata = ex.Message;
             }
@@ -99,15 +95,15 @@ namespace EserRestorant
             bool sonuc = false;
 
             SqlConnection con = new SqlConnection(gnl.conString);
-            SqlCommand cmd = new SqlCommand("INSERT INTO ADISYON(SERVISTURNO,TARIH,PERSONELID,MASAID,DURUM) VALUES(@ServisTurNo,@Tarih,@PersonelID,@MasaId,@Durum)",con);
+            SqlCommand cmd = new SqlCommand("INSERT INTO ADISYON(SERVISTURNO,TARIH,PERSONELID,MASAID,DURUM) VALUES(@ServisTurNo,@Tarih,@PersonelID,@MasaId,@Durum)", con);
             try
             {
-                if(con.State == ConnectionState.Closed)
+                if (con.State == ConnectionState.Closed)
                 {
                     con.Open();
                 }
 
-                cmd.Parameters.Add("@ServisTurNo",SqlDbType.Int).Value = Bilgiler.ServisTurNo;
+                cmd.Parameters.Add("@ServisTurNo", SqlDbType.Int).Value = Bilgiler.ServisTurNo;
 
                 cmd.Parameters.Add("@Tarih", SqlDbType.DateTime).Value = Bilgiler.Tarih;
                 cmd.Parameters.Add("@PersonelID", SqlDbType.Int).Value = Bilgiler.PersonelId;
@@ -116,7 +112,7 @@ namespace EserRestorant
 
                 sonuc = Convert.ToBoolean(cmd.ExecuteNonQuery());
             }
-            catch(SqlException ex)
+            catch (SqlException ex)
             {
                 string hata = ex.Message;
             }
@@ -212,7 +208,7 @@ namespace EserRestorant
                     lv.Items.Add(dr["MUSTERIID"].ToString());
                     lv.Items[sayac].SubItems.Add(dr["Musteri"].ToString());
                     lv.Items[sayac].SubItems.Add(dr["adisyonID"].ToString());
-                    
+
                     sayac++;
                 }
             }

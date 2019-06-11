@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
@@ -20,7 +16,7 @@ namespace EserRestorant
 
         #region Fields
         public int PersonelGorevId { get => _personelGorevId; set => _personelGorevId = value; }
-        public string Tanim { get => _tanim; set => _tanim = value; } 
+        public string Tanim { get => _tanim; set => _tanim = value; }
         #endregion
 
         public void PersonelGorevGetir(ComboBox cb)
@@ -39,7 +35,7 @@ namespace EserRestorant
                     con.Open();
                 }
 
-                dr=cmd.ExecuteReader();
+                dr = cmd.ExecuteReader();
 
                 while (dr.Read())
                 {

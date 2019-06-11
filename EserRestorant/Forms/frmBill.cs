@@ -1,12 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace EserRestorant
@@ -48,13 +41,13 @@ namespace EserRestorant
                 gbIndirim.Visible = true;
             }
 
-            if(clsGenel._ServisTurNo == 1)
+            if (clsGenel._ServisTurNo == 1)
             {
                 lblAdisyonId.Text = clsGenel._AdisyonId;
                 txtIndirimTutari.TextChanged += new EventHandler(txtIndirimTutari_TextChanged);
                 cs.getByOrder(lvUrunler, Convert.ToInt32(lblAdisyonId.Text));
 
-                if(lvUrunler.Items.Count > 0)
+                if (lvUrunler.Items.Count > 0)
                 {
                     decimal toplam = 0;
                     for (int i = 0; i < lvUrunler.Items.Count; i++)
@@ -152,7 +145,7 @@ namespace EserRestorant
             {
                 lblIndirim.Text = string.Format("{0:0.000}", 0);
             }
-            
+
         }
 
         private void chkIndirim_CheckedChanged(object sender, EventArgs e)
@@ -275,7 +268,7 @@ namespace EserRestorant
                     clsPaketler p = new clsPaketler();
                     p.OrderServiceClose(Convert.ToInt32(lblAdisyonId.Text));
 
-                    
+
 
                     this.Close();
                     Masa frm = new Masa();//changing
@@ -330,7 +323,7 @@ namespace EserRestorant
             e.Graphics.DrawString("Ödediğiniz Tutar  :--------------- " + lblOdenecek.Text + "  TL", altBaslik, sb, 250,
                 300 + 30 * (lvUrunler.Items.Count + 4), st);
             // printDocument1.DefaultPageSettings.PaperSize = printDocument1.PrinterSettings.PaperSizes[10];
-        } 
+        }
         #endregion
     }
 }

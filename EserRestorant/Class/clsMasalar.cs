@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace EserRestorant
 {
@@ -56,26 +52,26 @@ namespace EserRestorant
         {
             string dt = "";
             SqlConnection con = new SqlConnection(gnl.conString);
-            SqlCommand cmd = new SqlCommand("Select TARIH,MASAID From ADISYON Right Join MASALAR on ADISYON.MASAID=MASALAR.ID Where MASALAR.DURUM=@durum and ADISYON.DURUM=0 and MASALAR.ID=@masaId",con);
+            SqlCommand cmd = new SqlCommand("Select TARIH,MASAID From ADISYON Right Join MASALAR on ADISYON.MASAID=MASALAR.ID Where MASALAR.DURUM=@durum and ADISYON.DURUM=0 and MASALAR.ID=@masaId", con);
             SqlDataReader dr = null;
-            cmd.Parameters.Add("@durum",SqlDbType.Int).Value = state;
+            cmd.Parameters.Add("@durum", SqlDbType.Int).Value = state;
             cmd.Parameters.Add("@masaId", SqlDbType.Int).Value = Convert.ToInt32(masaId);
 
             try
             {
-                if(con.State == ConnectionState.Closed)
+                if (con.State == ConnectionState.Closed)
                 {
                     con.Open();
                 }
                 dr = cmd.ExecuteReader();
 
-                while(dr.Read())
+                while (dr.Read())
                 {
                     dt = Convert.ToDateTime(dr["TARIH"]).ToString();
                     //dt = Convert.ToDateTime(dr["@TARIH"]).ToString();
                 }
             }
-            catch(SqlException ex)
+            catch (SqlException ex)
             {
                 string hata = ex.Message;
 
@@ -94,7 +90,7 @@ namespace EserRestorant
         {
             string aa = TableValue;
             int length = aa.Length;
-            
+
 
             if (length > 8)
             {
@@ -105,26 +101,26 @@ namespace EserRestorant
                 return Convert.ToInt32(aa.Substring(length - 1, 1));
             }
 
-            
+
         }
 
         public bool TableGetByState(int ButtonName, int state)
         {
             bool result = false;
             SqlConnection con = new SqlConnection(gnl.conString);
-            SqlCommand cmd = new SqlCommand("Select DURUM From MASALAR Where ID=@TableId and DURUM=@state",con);
+            SqlCommand cmd = new SqlCommand("Select DURUM From MASALAR Where ID=@TableId and DURUM=@state", con);
 
-            cmd.Parameters.Add("@TableId",SqlDbType.Int).Value = ButtonName;
-            cmd.Parameters.Add("@state",SqlDbType.Int).Value = state;
+            cmd.Parameters.Add("@TableId", SqlDbType.Int).Value = ButtonName;
+            cmd.Parameters.Add("@state", SqlDbType.Int).Value = state;
             try
             {
-                if(con.State == ConnectionState.Closed)
+                if (con.State == ConnectionState.Closed)
                 {
                     con.Open();
                 }
                 result = Convert.ToBoolean(cmd.ExecuteScalar());
             }
-            catch(SqlException ex)
+            catch (SqlException ex)
             {
                 string hata = ex.Message;
             }
@@ -140,7 +136,7 @@ namespace EserRestorant
         public void setChangeTableState(string ButtonName, int state)
         {
             SqlConnection con = new SqlConnection(gnl.conString);
-            SqlCommand cmd = new SqlCommand("UPDATE MASALAR SET DURUM = @Durum where ID=@MasaNo",con);
+            SqlCommand cmd = new SqlCommand("UPDATE MASALAR SET DURUM = @Durum where ID=@MasaNo", con);
             string masaNo = "";
 
             if (con.State == ConnectionState.Closed)
@@ -151,8 +147,8 @@ namespace EserRestorant
             string aa = ButtonName;
             int uzunluk = aa.Length;
 
-            cmd.Parameters.Add("@Durum",SqlDbType.Int).Value = state;
-            if(uzunluk > 8)
+            cmd.Parameters.Add("@Durum", SqlDbType.Int).Value = state;
+            if (uzunluk > 8)
             {
                 masaNo = aa.Substring(uzunluk - 2, 2);
             }

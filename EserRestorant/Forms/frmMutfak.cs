@@ -1,13 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using EserRestorant.Class;
+using System;
 using System.Windows.Forms;
-using EserRestorant.Class;
 
 namespace EserRestorant
 {
@@ -37,7 +30,7 @@ namespace EserRestorant
         {
             clsUrunCesitleri Anakategori = new clsUrunCesitleri();
             Anakategori.urunCesitleriniGetir(cbKategoriler);
-            cbKategoriler.Items.Insert(0,"Tüm Kategoriler");
+            cbKategoriler.Items.Insert(0, "Tüm Kategoriler");
             cbKategoriler.SelectedIndex = 0;
 
             label4.Visible = false;
@@ -115,7 +108,7 @@ namespace EserRestorant
             }
             else
             {
-                clsUrunCesitleri cesit = (clsUrunCesitleri) cbKategoriler.SelectedItem;
+                clsUrunCesitleri cesit = (clsUrunCesitleri)cbKategoriler.SelectedItem;
                 urunturNo = cesit.UrunTurNo;
                 u.urunleriListeleByUrunId(lvGidaListesi, urunturNo);
             }
@@ -259,7 +252,7 @@ namespace EserRestorant
             if (rbAltKategori.Checked)
             {
                 clsUrunler u = new clsUrunler();
-                u.urunleriListeleByUrunAdi(lvGidaListesi,txtArama.Text);
+                u.urunleriListeleByUrunAdi(lvGidaListesi, txtArama.Text);
             }
             else
             {
@@ -295,7 +288,7 @@ namespace EserRestorant
             cbKategoriler.Items.Insert(0, "Tüm Kategoriler");
             cbKategoriler.SelectedIndex = 0;
             uc.urunCesitleriniGetir(lvKategoriler);
-            
+
             clsUrunler c = new clsUrunler();
             c.urunleriListele(lvGidaListesi);
 

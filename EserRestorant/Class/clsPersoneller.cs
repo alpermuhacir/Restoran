@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Data;
+using System.Data.SqlClient;
 using System.Windows.Forms;
 
 namespace EserRestorant
@@ -68,7 +64,7 @@ namespace EserRestorant
         {
             get => _PersonelDurum;
             set => _PersonelDurum = value;
-        } 
+        }
         #endregion
 
         //Check our entry
@@ -84,13 +80,13 @@ namespace EserRestorant
 
             try
             {
-                if(con.State==ConnectionState.Closed)
+                if (con.State == ConnectionState.Closed)
                 {
                     con.Open();
                 }
                 result = Convert.ToBoolean(cmd.ExecuteScalar());
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 string hata = ex.Message;
                 throw;
@@ -106,7 +102,7 @@ namespace EserRestorant
 
             SqlConnection con = new SqlConnection(clsGenel.conString);
             SqlCommand cmd = new SqlCommand("Select * from PERSONELLER", con);
-            
+
             if (con.State == ConnectionState.Closed)
             {
                 con.Open();
@@ -206,7 +202,7 @@ namespace EserRestorant
             SqlConnection con = new SqlConnection(clsGenel.conString);
             SqlCommand cmd = new SqlCommand("Select AD + SOYAD From PERSONELLER " +
                                             "WHERE PERSONELLER.DURUM=0 and PERSONELLER.ID=@perId", con); // boşluk gelecek...
-            cmd.Parameters.Add("perID",SqlDbType.Int).Value = perId;
+            cmd.Parameters.Add("perID", SqlDbType.Int).Value = perId;
 
             try
             {
