@@ -4,7 +4,7 @@
     class clsGenel
     {
 
-        //public string conString = ("Server=ALPERMUHACIR;Database=EserRestorant_Guncel;Trusted_Connection=True");
+        //check OK
         public string conString = ("Server=ALPERMUHACIR;Database=EserRestorant;Trusted_Connection=True");
 
         public static int _PersonelID;

@@ -12,7 +12,7 @@ namespace EserRestorant
             InitializeComponent();
         }
 
-        //
+        // 
         private void frmGiris_Load(object sender, EventArgs e)
         {
             clsPersoneller p = new clsPersoneller();
