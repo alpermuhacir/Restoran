@@ -1,0 +1,556 @@
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\EserRestorant.exe.config
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\EserRestorant.exe
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\EserRestorant.pdb
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.csprojResolveAssemblyReference.cache
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.Properties.Resources.resources
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.csproj.GenerateResource.Cache
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.exe
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.pdb
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmGiris.resources
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmMenu.resources
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.Masa.resources
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmPaketSiparis.resources
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmBill.resources
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmMusteriAra.resources
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.MusteriEkleme.resources
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmSiparisKontrol.resources
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmAyarlar.resources
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmMutfak.resources
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.Data.v17.1.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraReports.v17.1.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\EnvDTE.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\stdole.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\EnvDTE80.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\VSLangProj.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\VSLangProj80.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Newtonsoft.Json.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.MSXML.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.Build.Framework.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\VSLangProj2.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.Data.v17.1.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraReports.v17.1.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\tr\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\tr\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.csproj.EserRestorant.exe.config
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmKasaIslemleri.resources
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.exe.licenses
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.csproj.CoreCompileInputs.cache
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmRaporlar.resources
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmKilit.resources
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmRezervasyon.resources
+D:\visual studio 2017\Projects\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmSiparis.resources
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\EserRestorant.exe.config
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\EserRestorant.exe
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\EserRestorant.pdb
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\EnvDTE.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\stdole.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\EnvDTE80.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\VSLangProj.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\VSLangProj80.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.MSXML.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\VSLangProj2.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\tr\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\bin\Debug\tr\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.csprojAssemblyReference.cache
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.exe.config
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmAyarlar.resources
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmBill.resources
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmGiris.resources
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmKasaIslemleri.resources
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmKilit.resources
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmMenu.resources
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmMusteriAra.resources
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmMutfak.resources
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmPaketSiparis.resources
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmRaporlar.resources
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmRezervasyon.resources
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmSiparis.resources
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.frmSiparisKontrol.resources
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.Masa.resources
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.MusteriEkleme.resources
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.Properties.Resources.resources
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.csproj.GenerateResource.cache
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.exe.licenses
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.csproj.CopyComplete
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.exe
+C:\Users\alper\Desktop\EserRestorant\EserRestorant\EserRestorant\obj\Debug\EserRestorant.pdb
