@@ -1,6 +1,6 @@
 # TR
 <br><br>
-# Restorant Proje Örneği
+# Restoran Proje Örneği
 <br>
 Kaynak kodları inceleyebilir, proje üzerinde geliştirmeler yaparak kullanabilirsiniz.
 <br>
